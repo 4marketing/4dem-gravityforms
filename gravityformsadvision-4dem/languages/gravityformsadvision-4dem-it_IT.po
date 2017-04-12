@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-12 11:55+0200\n"
+"PO-Revision-Date: 2017-04-12 12:03+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-gf-advision-4dem.php:214
+msgid "Subscribe user to 4Dem only when payment is received."
+msgstr "Iscrivi l'utente alla Newsletter 4Dem quando il pagamento è ricevuto."
+
+#: class-gf-advision-4dem.php:275
+#, php-format
+msgid ""
+"4Dem makes it easy to send email newsletters to your customers, manage your "
+"subscriber lists, and track campaign performance. Use Gravity Forms to "
+"collect customer information and automatically add it to your 4Dem "
+"subscriber list. If you don't have a 4Dem account, you can %1$ssign up for "
+"one here.%2$s"
+msgstr ""
+"4Dem ti permette di inviare con semplicità campagne newsletter ai tuoi "
+"iscritti, gestire le liste di iscrizione e monitorare le performance delle "
+"tue campagne. Utilizza Gravity Forms per raccogliere i dati degli utenti ed "
+"inviarli automaticamente alla console di 4Dem. Se non hai ancora un account "
+"4Dem puoi %1$screarne subito uno grauitamente.%2$s"
+
+#: class-gf-advision-4dem.php:282
+msgid "4Dem APIkey"
+msgstr "APIkey 4Dem"
+
+#: class-gf-advision-4dem.php:301
+msgid "4Dem Custom Field"
+msgstr "Campo personalizzato 4Dem"
+
+#: class-gf-advision-4dem.php:316
+msgid "4Dem Feed Settings"
+msgstr "Impostazoni del feed 4Dem"
+
+#: class-gf-advision-4dem.php:320 class-gf-advision-4dem.php:326
+#: class-gf-advision-4dem.php:586
+msgid "Name"
+msgstr "Nome"
+
+#: class-gf-advision-4dem.php:327
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr "Inserisci un nome che identifichi univocamente questo feed."
+
+#: class-gf-advision-4dem.php:332 class-gf-advision-4dem.php:337
+msgid "4Dem List"
+msgstr "Lista di iscrizione 4Dem"
+
+#: class-gf-advision-4dem.php:338
+msgid "Select the 4Dem list you would like to add your contacts to."
+msgstr ""
+"Seleziona la lista 4Dem a cui vuoi iscrivere gli utenti che compilano il "
+"form."
+
+#: class-gf-advision-4dem.php:348 class-gf-advision-4dem.php:353
+msgid "Custom Fields Mapping"
+msgstr "Mappatura campi personalizzati"
+
+#: class-gf-advision-4dem.php:354
+msgid ""
+"Associate your 4Dem custom fields to the appropriate Gravity Form fields by "
+"selecting the appropriate form field from the list."
+msgstr ""
+"Associa i campi personalizzati della lista 4Dem con i campi del modulo di "
+"Gravity Form."
+
+#: class-gf-advision-4dem.php:359 class-gf-advision-4dem.php:363
+msgid "Conditional Logic"
+msgstr "Ligica condizionale"
+
+#: class-gf-advision-4dem.php:364
+msgid ""
+"When conditional logic is enabled, form submissions will only be exported to "
+"4Dem when the conditions are met. When disabled all form submissions will be "
+"exported."
+msgstr ""
+"Quando definisci una logica condizionale, i form inviati vengono elaborati "
+"dal modulo 4Dem solamente quando le condizioni impostate sono verificate. "
+"Quando disabilitate tutti i form sono processati anche da 4Dem."
+
+#: class-gf-advision-4dem.php:427 class-gf-advision-4dem.php:440
+#, php-format
+msgid "Could not load 4Dem contact lists. %sError: %s"
+msgstr "Impossibile caricare le liste di 4Dem %sError: %s"
+
+#: class-gf-advision-4dem.php:440
+msgid "No lists found."
+msgstr "Nessuna lista trovata."
+
+#: class-gf-advision-4dem.php:452
+msgid "Select a 4Dem List"
+msgstr "Seleziona una lista di 4Dem"
+
+#: class-gf-advision-4dem.php:498
+msgid "Email Address"
+msgstr "Indirizzo email"
+
+#: class-gf-advision-4dem.php:587
+msgid "Advision_4Dem List"
+msgstr "Lista 4Dem"
+
+#: class-gf-advision-4dem.php:718
+msgid "Unable to process feed because API could not be initialized."
+msgstr ""
+"Impossibile processre il feed in quanto le API non possono essere "
+"inizializzate."
+
+#: class-gf-advision-4dem.php:733
+msgid "A valid Email address must be provided."
+msgstr "Devi inserire un indirizzo email valido."
+
+#: class-gf-advision-4dem.php:854
+#, php-format
+msgid "Unable to add/update subscriber: %s"
+msgstr "Impossibile aggiungere/modificare l'utente: %s"
